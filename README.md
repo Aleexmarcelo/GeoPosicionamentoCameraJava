@@ -9,7 +9,8 @@
 Um aplicativo que exibe a localização do aparelho e também tira fotos, feito em Java e Android Studio.
 
 🔹 Funcionalidades
-Exibe latitude e longitude do aparelho, tira e armazena fotos.
+GeoPosicionamento
+Câmera
 
 🔹 Distribuição
 Android.
@@ -34,6 +35,7 @@ Java, Android Studio.
 🔹 Recursos inseridos 
 
 🔹 Desenvolvedores/Contribuintes
+Alex Marcelo
 
 🔹 Informações Extras
 
@@ -44,15 +46,13 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
+GeoPosicionamento: Mostra em apenas um clique, a localização do aparelho em latitude e longitude.
 
 ✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
+Câmera: Apertando o botão câmera do aplicativo, o usuário armazena uma foto com data e hora.
 
 ## Distribuição
-Link para teste da versão disponibilizada.
+Somente no GitHUB
 
 ## Pré-requisitos ⚠️    
 Android 8.0; 
@@ -61,13 +61,7 @@ Aparelho utilizado para testes.
 - Motorola G6 Plus
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
-
-## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
-
-## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+Baixando o arquivo em .apk, instale o aplicativo em seu celular, abra. Será exibido uma logo da equipe OIO e após 3 segundos, estará pronto para uso.
 
 ## Linguagens, dependencias e libs utilizadas 📚
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
